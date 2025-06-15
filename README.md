@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I'm an IT Systems and Operations Engineer with a s
 ## 📫 Contact
 
 - 📧 Email: [contact@giriprabhat.com](mailto:contact@giriprabhat.com)
-- 💬 Also active on: Hackaday, Reddit (u/gprabhat), and occasionally on Mastodon
 
 ---
 
